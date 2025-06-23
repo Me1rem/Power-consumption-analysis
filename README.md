@@ -35,7 +35,9 @@ The Total Power Consumption across all company/regions is 12bnMW.The average Pow
 ## Conclusion.
 Overall, these insights highlight the importance of time-based, region-specific, and seasonal factors in shaping energy demand. They underscore the need for:
 Load forecasting and demand response strategies
+
 Energy efficiency initiatives in peak regions
+
 Data-driven planning to optimize resource use across different times of day and year
 
 These findings provide a foundation for Tobi Power Innovations to enhance grid reliability, reduce operational costs, and support sustainable energy management
