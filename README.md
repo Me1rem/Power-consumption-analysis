@@ -34,6 +34,7 @@ The Total Power Consumption across all company/regions is 12bnMW.The average Pow
 
 ## Conclusion.
 Overall, these insights highlight the importance of time-based, region-specific, and seasonal factors in shaping energy demand. They underscore the need for:
+
 Load forecasting and demand response strategies
 
 Energy efficiency initiatives in peak regions
