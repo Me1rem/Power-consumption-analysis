@@ -18,8 +18,8 @@ The analysis started off with writing an M code from 1998-2018 that creates a ta
 The data types were formatted and standardized, duplicates were removed and blank rows were taken care of.
 
 ## Dashboard image
-<a href="https://github.com/Me1rem/Power-consumption-analysis/blob/main/POWER%20CONSUMPTION%201.png">View Dashboad</a>
-<a href="https://github.com/Me1rem/Power-consumption-analysis/blob/main/POWER%20CONSUMPTION%202.png">View Dashboard</a>
+<a href="https://github.com/Me1rem/Power-consumption-analysis/blob/main/POWER.png">View Dashboad</a>
+<a href="https://github.com/Me1rem/Power-consumption-analysis/blob/main/POWER%202.png">View Dashboard</a>
 
 ## Key Insights
 The time of the day with the highest power consumption across all regions/companies is the evening, this is because a lot people return from work at this hour leading to a spike in use of electricity, that is the use of light, appliances, charging devices and extended commercial operations.
