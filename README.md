@@ -8,7 +8,7 @@ The aim of this study is to analyze and Optimize power consumption pattern of re
 2. Trend analysis over time – What are the daily or seasonal patterns in energy usage for each company
 3. Identify Peak Power Consumption Periods – Are there specific hours of the day when power consumption spikes
 
-Dashboard Interaction <a href="https://github.com/Me1rem/Power-consumption-analysis/blob/main/ONWUPELU%20MIRACLE.pbix">View Dashboad</a>
+Dashboard Interaction <a href="https://github.com/Me1rem/Power-consumption-analysis/blob/main/POWER%20COSUMPTION%20PROJECT.pbix">View Dashboad</a>
 
 ## Process
 The Dataset Consists of 12 tables for each region/Company and they have 2 columns each, one is the load in MW, while the other is the date and time at which the load in MW was recorded
