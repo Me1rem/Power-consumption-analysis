@@ -13,7 +13,7 @@ Dashboard Interaction <a href="https://github.com/Me1rem/Power-consumption-analy
 ## Process
 The Dataset Consists of 12 tables for each region/Company and they have 2 columns each, one is the load in MW, while the other is the date and time at which the load in MW was recorded
 
-The analysis started off with writing an M code from 1998-2018 that creates a table of hourly timestamps between 1998-2018,then the table was merged with all the region/company loads in MW and the rest of the columns were unpivoted except for the date and time column.
+The analysis started off with appending the tables 
 
 The data types were formatted and standardized, duplicates were removed and blank rows were taken care of.
 
@@ -22,7 +22,7 @@ The data types were formatted and standardized, duplicates were removed and blan
 <a href="https://github.com/Me1rem/Power-consumption-analysis/blob/main/POWER%202.png">View Dashboard</a>
 
 ## Key Insights
-The time of the day with the highest power consumption across all regions/companies is the evening, this is because a lot people return from work at this hour leading to a spike in use of electricity, that is the use of light, appliances, charging devices and extended commercial operations.
+The time of the day with the highest power consumption across all regions/companies is the Night, this is because a lot people return from work at this hour leading to a spike in use of electricity, that is the use of light, appliances, charging devices and extended commercial operations.
 
 The top 5 region/company and their highest peak loads are PJME,PJM_LOAD,AEP,COMED and NI.This could entail that these regions have a spike in energy demand during some specific time of the day.These peaks may reflect industrial operations, high residential density or limited efficiency controls. Understanding these patterns is essential for grid planning and preventing overload!
 
